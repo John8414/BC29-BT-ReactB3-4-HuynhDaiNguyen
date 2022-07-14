@@ -13,4 +13,4 @@ export const shoesReducer = (state = DEFAULT_STATE, { type, payload }) => {
         default:
             return state;
     }
-};
+}; 
